@@ -1,6 +1,7 @@
 # macOS Sonoma on Lenovo Thinkpad L540 
 
 
+
 <summary><strong>My Hardware</strong></summary>
 <br>
 
@@ -12,6 +13,12 @@
 | Memory    | 16GB DDR3 1600Mhz                     |
 | WiFi & BT | Intel Wireless-N 7260                |
 
+# Screenshots
+
+![lockscreen](https://github.com/user-attachments/assets/603027ec-6156-47be-9bae-6ca5bfd6025c)
+![desktop](https://github.com/user-attachments/assets/00a9c2d5-7e94-4a61-a844-89ff0c2243e5)
+![info](https://github.com/user-attachments/assets/a1c7c42e-d3d1-4ff8-8c39-1d2ef24905f2)
+
 
 # Status
   
@@ -22,6 +29,20 @@
 - VGA
 - Sleep with Docking Station
 - Realtek Card Reader
+
+
+# How to fix Intel HD Graphics 4600
+
+- "amfi_get_out_of_my_way=1" - Add in config.plist boot-args
+- open terminal
+- sudo spctl --master-disable
+- restart, go to recovery (press space in boot menu), choose utility, open terminal
+- csrutil disable
+- csrutil authenticated-root disable
+- restart
+- run oclp (opencore legacy patcher)
+- press post-install root patch
+- done
 
 
 
