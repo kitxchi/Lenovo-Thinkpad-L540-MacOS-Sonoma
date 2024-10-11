@@ -14,42 +14,15 @@
 
 
 # Status
-
-<details>  
-<summary><strong>What's working</strong></summary>
-<br>
- 
-- [X] Intel WiFi & Bluetooth (thanks to [itlwn](https://github.com/OpenIntelWireless/itlwm))
-- [X] Brightness / Volume Control 
-- [X] Battery Information
-- [X] Audio (Apple ALC Speaker)
-- [X] USB Ports & Built-in Camera
-- [X] Graphics Acceleration
-- [X] Trackpoint / Touchpad
-- [X] Power management / Sleep
-- [X] FaceTime / iMessage (iServices)
-- [X] DisplayPort
-- [X] DVD Drive
-- [X] Dock USB / Display
-- [X] Handoff / Universal Clipboard
-- [X] Sidecar (Cable) / AirPlay to Mac
-- [X] SIP / FireVault 2
-- [X] Hotkeys via YOGASMC (need to download YogaSMCPane)
-
-
-</details>
-
-<details>  
-<summary><strong>⚠️ What's not working</strong></summary>
+  
+<summary><strong>What's not working</strong></summary>
 </br>
 
-- [ ] Safari DRM ```Use Chromium powered Browser or Firefox to watch Amazon Prime Video, Netflix, Disney+ and others```
-- [ ] Audio Jack (noisy)
-- [ ] VGA
-- [ ] Sleep with Docking Station
-- [ ] Realtek Card Reader ``` it works but shows a warning on statusbar because of unsigned class``` 
+- Audio Jack
+- VGA
+- Sleep with Docking Station
+- Realtek Card Reader ``` it works but shows a warning on statusbar because of unsigned class``` 
 
-</details>
 
 <details>  
 <summary><strong>🔄 Not tested</strong></summary>
