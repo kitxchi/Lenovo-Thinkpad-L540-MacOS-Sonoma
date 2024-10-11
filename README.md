@@ -1,6 +1,6 @@
 # macOS Sonoma on Lenovo Thinkpad L540 
 
-<details>
+
 <summary><strong>My Hardware</strong></summary>
 <br>
 
@@ -12,7 +12,6 @@
 | Memory    | 16GB DDR3 1600Mhz                     |
 | WiFi & BT | Intel Wireless-N 7260                |
 
-</details>  
 
 ## Status
 
