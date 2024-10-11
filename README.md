@@ -13,11 +13,11 @@
 | WiFi & BT | Intel Wireless-N 7260                |
 
 
-## Status
+# Status
 
 <details>  
-<summary><strong>✅ What's working</strong></summary>
-</br>
+<summary><strong>What's working</strong></summary>
+<br>
  
 - [X] Intel WiFi & Bluetooth (thanks to [itlwn](https://github.com/OpenIntelWireless/itlwm))
 - [X] Brightness / Volume Control 
