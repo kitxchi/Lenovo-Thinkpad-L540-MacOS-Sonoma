@@ -7,7 +7,7 @@
 
 | Category  | Component                            |
 | --------- | ------------------------------------ |
-| CPU       | Intel Core i5-4300M                 |
+| CPU       | Intel Core i5-4210M                 |
 | GPU       | Intel HD Graphics 4600               |
 | SSD       | Goodram SSD 120GB               |
 | Memory    | 16GB DDR3 1600Mhz                     |
