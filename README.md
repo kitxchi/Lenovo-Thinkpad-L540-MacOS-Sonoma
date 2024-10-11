@@ -1,19 +1,15 @@
 # macOS Sonoma on Lenovo Thinkpad L540 
 
 <details>
-<summary><strong>💻 My Hardware</strong></summary>
+<summary><strong>My Hardware</strong></summary>
 <br>
-These are the Hardware component I use. But this OpenCore configuation **should still work** with your device, even if the components are not equal.
 
 | Category  | Component                            |
 | --------- | ------------------------------------ |
 | CPU       | Intel Core i5-4300M                 |
 | GPU       | Intel HD Graphics 4600               |
-| SSD       | Trendmicro M2 SSD 240GB               |
-| SSD       | Samsung EVO SSD 240GB               |
-| SSD       | Intenso SSD 240GB               |
-| Memory    | 8GB DDR3 1600Mhz                     |
-| Camera    | 720p Camera                          |
+| SSD       | Goodram SSD 120GB               |
+| Memory    | 16GB DDR3 1600Mhz                     |
 | WiFi & BT | Intel Wireless-N 7260                |
 
 </details>  
