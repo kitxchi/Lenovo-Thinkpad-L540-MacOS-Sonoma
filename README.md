@@ -21,6 +21,8 @@
 
 
 # Status
+
+- bugs and long time loading desktop
   
 <summary><strong>What's not working</strong></summary>
 </br>
