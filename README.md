@@ -22,29 +22,29 @@
 
 # Status
 
-- bugs and long time loading desktop
+- Bugs and long time loading desktop
   
 <summary><strong>What's not working</strong></summary>
 </br>
 
 - Audio Jack
 - VGA
-- Sleep with Docking Station
+- Sleep
 - Realtek Card Reader
 
 
 # How to fix Intel HD Graphics 4600
 
 - "amfi_get_out_of_my_way=1" - Add in config.plist boot-args
-- open terminal
+- Open terminal
 - sudo spctl --master-disable
-- restart, go to recovery (press space in boot menu), choose utility, open terminal
+- Restart, go to recovery (press space in boot menu), choose utility, open terminal
 - csrutil disable
 - csrutil authenticated-root disable
-- restart
-- run oclp (opencore legacy patcher)
-- press post-install root patch
-- done
+- Restart
+- Run OCLP (OpenCore Legacy Patcher)
+- Press Post-install Root Patch
+- Done
 
 
 
