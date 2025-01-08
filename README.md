@@ -48,4 +48,4 @@
 
 
 
-```Copyright (c) kitxchi 2024```
+```Copyright (c) kitxchi 2024-2025```
