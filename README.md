@@ -1,4 +1,4 @@
-# macOS Sonoma on Lenovo Thinkpad L540 
+# macOS Sonoma on Lenovo ThinkPad L540 
 
 
 
@@ -9,8 +9,9 @@
 | --------- | ------------------------------------ |
 | CPU       | Intel Core i5-4210M                 |
 | GPU       | Intel HD Graphics 4600               |
-| SSD       | Goodram SSD 120GB               |
-| Memory    | 16GB DDR3 1600Mhz                     |
+| SSD       | Goodram SSD 240GB               |
+| Memory    | 12GB DDR3 1333Mhz                     |
+| OS    | MacOS Ventura & Windows 10 x64                    |
 | WiFi & BT | Intel Wireless-N 7260                |
 
 # Screenshots
